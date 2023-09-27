@@ -2,7 +2,7 @@
 
 Results after Cross-Validation:
 
-            CC      CCC     MSE     MAE      input         time    epochs  arch
+                        CC      CCC     MSE     MAE      input         time    epochs  arch
             wvlmcnn14:  0.676   0.614   2.485   0.804    wavegram      13h     50      [CNN]
             passt:      0.638   0.578   2.680   0.922    melspec,128   10h     30      [TR] 
             cnn10:      0.548   0.429   3.205   0.968    melspec,64    3h      50      [CNN]
