@@ -1,0 +1,11 @@
+data/
+venv/
+img/
+.idea/
+__pycache__/
+/__pycache__/
+/models/checkpoints/
+/models/EfficientAT.py
+/models/resources
+/models/__pycache__
+/resources/
